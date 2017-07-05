@@ -80,6 +80,7 @@ Framework  | Credit | Date added
 * **Scrutinizer CI** https://scrutinizer-ci.com/docs/guides/deploying/platform_sh
 * An adapter from platform.sh webhook to **slack** incoming webhook that can be hosted on a platform.sh app https://github.com/hanoii/platformsh2slack
 * How to [call the NewRelic API on deploy](https://github.com/platformsh/platformsh-docs/pull/536#issuecomment-295578188) (by @christopher-hopper)
+* A helper utility for running browser based tests on CircleCI against a Platform.sh environment. https://github.com/xendk/dais
 
 ## Tools & development
 
