@@ -6,6 +6,12 @@ _Make an empty commit to force a redeploy_
 git commit --allow-empty -m 'redeploy' && git push
 ```
 
+_Make an empty commit for a Lets Encrypt certificate deployment_
+
+```
+git commit --allow-empty -m 'Update Lets Encrypt' && git push
+```
+
 _Test that an environment works before you merge it_
 
 ```
