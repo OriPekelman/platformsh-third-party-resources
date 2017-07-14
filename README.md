@@ -101,7 +101,6 @@ Framework  | Credit | Date added
 
 * [Playbook for setting up Vagrant and VirtualBox](https://github.com/DurableDrupal/ansible-vm-platformsh) for use with a Platform.sh project 
 * PixelArt's [Platform.sh CLI role](https://galaxy.ansible.com/pixelart/platformsh-cli/)
-* Another [Platform.sh CLI role from @hashbangcode](https://github.com/hashbangcode/ansible-role-platformsh-cli)
 
 ## Archive
 
