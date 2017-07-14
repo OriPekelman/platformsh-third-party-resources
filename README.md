@@ -11,16 +11,22 @@ This list is maintained by @xtfer. Pull Requests welcome.
 
 ## Guides
 
-* How to [connect to your MySQL database](https://www.thinktandem.io/blog/2017/03/03/connecting-to-a-remote-platform-sh-database) using Sequel Pro 
-* All the stuff you need for a [pro-dev-flow using platform.sh](https://github.com/thinktandem/platform-workflow-demo) as your deploy target  again by https://www.thinktandem.io
-* How to [set up XDebug](https://ghosty.co.uk/2015/09/debugging-on-platform-sh/) 
-* Official [Symfony documentation](http://symfony.com/doc/current/deployment/platformsh.html) on deploying to Platform.sh 
-* Official [Sylius](http://docs.sylius.org/en/latest/cookbook/platform-sh.html) documentation on deploying to Platform.sh
+### Getting started & workflow
+
+* [Set up your Mac for Platform.sh using MAMP](https://github.com/owntheweb/platform-quick-starter) by [@owntheweb](https://github.com/owntheweb)
 * How Platform.sh can [simplify your contribution workflow on GitHub](https://medium.com/akeneo-labs/how-platform-sh-can-simplify-your-contribution-workflow-on-github-6e2a557a1bcc) by Mickaël Andrieu from Akeneo
 * [A guide in French](http://thomas-asnar.github.io/platform-sh-orange-cloud/) on deploying to Platform.sh by Thomas Asnar [FR]
 * Nacho Digital has a guide on [moving an existing site](http://www.nachodigital.com.ar/content/moving-existing-site-platformsh) to Platform.sh 
+* All the stuff you need for a [pro-dev-flow using platform.sh](https://github.com/thinktandem/platform-workflow-demo) as your deploy target  again by https://www.thinktandem.io
+
+### Working with Platform.sh
+
+* How to [connect to your MySQL database](https://www.thinktandem.io/blog/2017/03/03/connecting-to-a-remote-platform-sh-database) using Sequel Pro 
+* How to [set up XDebug](https://ghosty.co.uk/2015/09/debugging-on-platform-sh/) 
+* Official [Symfony documentation](http://symfony.com/doc/current/deployment/platformsh.html) on deploying to Platform.sh 
+* Official [Sylius](http://docs.sylius.org/en/latest/cookbook/platform-sh.html) documentation on deploying to Platform.sh
 * How to set up [SSL with Cloudflare](https://www.ignoredbydinosaurs.com/posts/307-setting-up-ssl-on-your-platformsh-site-with-cloudflare)
-* Introduction to [using PostgreSQL](https://www.ignoredbydinosaurs.com/posts/296-postgres-on-platform) 
+* Introduction to [using PostgreSQL](https://www.ignoredbydinosaurs.com/posts/296-postgres-on-platform)
 
 ### Drupal
 
@@ -62,7 +68,6 @@ Framework  | Credit | Date added
 [**Mouf framework** example](https://github.com/xhuberty/RhMachine)|[The Coding Machine](https://github.com/xhuberty)|May 2017
 [**Flow Framework** support package](https://github.com/ttreeagency/FlowPlatformSh)|Dominique Feyer|Jul 2017
 [**Neos CMS** support package](https://github.com/ttreeagency/NeosPlatformSh)|Dominique Feyer|Jul 2017
-
 [**Silex** example](https://github.com/JGrubb/platformsh-silex-intro)|[@JGrubb](https://github.com/JGrubb)|May 2017
 [**Silverstripe** example](https://github.com/gmoigneu/platformsh-example-silverstripe)|[@gmoigneu](https://github.com/gmoigneu)|May 2017
 [**Thunder** example](https://github.com/md-systems/platformsh-example-thunder)|[maintained by the MD Systems team](https://github.com/md-systems)|May 2017
