@@ -31,6 +31,9 @@ This list is maintained by @xtfer. Pull Requests welcome.
 ### Drupal
 
 * [Modifying distribution make files for Platform.sh](https://www.nickvahalik.com/blog-entry/modifying-distribution-makefiles-within-your-own-project-makefile-platformsh) 
+* [Builds Drupal sites using platform.sh config and docker
+](https://github.com/tes/cms-builder)
+* [Scripts to push your project to platform.sh (Gitlab-CI)](https://github.com/axelerant/pushtoplatformsh)
 * Platform.sh [Drupal 8 Development Workflow](https://github.com/JohnatasJMO/platformsh-development-workflow) by @JohnatasJMO
 * Syslogging is not supported on Platform.sh, instead, you can [Log using Monolog](https://gist.github.com/janstoeckler/7f251bf10fedbfb7f752b61ee5d2ef5e) to keep log files out of the database (and/or use whatever processors & handlers you want)
 
@@ -94,7 +97,7 @@ Framework  | Credit | Date added
 * Create [**deploy commands you can run from composer**](https://github.com/dnunez24/platformsh-deploy-php), using Symfony 
 * A small tool from Hanoii https://github.com/hanoii/drocal
 * Script to **sync a Drupal site** from Production to Local https://github.com/pjcdawkins/platformsh-sync
-* Matt Pope's [Platform.sh automated mysql and files backup script](https://bitbucket.org/snippets/kaypro4/gnB4E)
+* Matt Pope's [Platform.sh automated mysql and files backup script](https://bitbucket.org/snippets/kaypro4/gnB4E) and Ben Dougherty's version : https://github.com/benjy/platform-backup 
 
 ### Development environments
 
